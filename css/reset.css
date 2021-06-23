@@ -1,0 +1,70 @@
+a, abbr, acronym, address, applet, article, aside, audio,
+b, blockquote, big, body,
+center, canvas, caption, cite, code, command,
+datalist, dd, del, details, dfn, dl, div, dt, 
+em, embed,
+fieldset, figcaption, figure, font, footer, form, 
+h1, h2, h3, h4, h5, h6, header, hgroup, html,
+i, iframe, img, ins,
+kbd, 
+keygen,
+label, legend, li, 
+meter,
+nav,
+object, ol, output,
+p, pre, progress,
+q, 
+s, samp, section, small, span, source, strike, strong, sub, sup,
+table, tbody, tfoot, thead, th, tr, tdvideo, tt,
+u, ul, 
+var{
+    background: transparent;
+    border: 0 none;
+    font-size: 100%;
+    margin: 0;
+		padding: 0;
+		border: 0;
+		outline: 0;
+    vertical-align: top; }
+blockquote, q {
+	quotes: none;
+}
+table, table td { 
+	padding:2px;
+	border:none;
+	border-collapse:collapse;
+}
+img {
+	vertical-align:top; 
+}
+embed { 
+	vertical-align:top;
+}
+* { border:none}
+input, textarea{ outline:none !important}
+
+/* Getting the new tags to behave */
+article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video{ display: block; }
+mark, rp, rt, ruby, summary, time{ display: inline }
+
+/*
+     FILE ARCHIVED ON 06:00:00 Feb 18, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:00:35 Jun 23, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.016
+  PetaboxLoader3.resolve: 121.437 (2)
+  captures_list: 189.055
+  LoadShardBlock: 105.969 (3)
+  exclusion.robots: 0.305
+  CDXLines.iter: 17.689 (3)
+  load_resource: 306.197
+  exclusion.robots.policy: 0.283
+  PetaboxLoader3.datanode: 91.499 (4)
+  RedisCDXSource: 61.699
+*/
